@@ -116,10 +116,10 @@ if(isset($_POST['order_btn'])){
          <div class="inputBox">
             <span>payment method :</span>
             <select name="method">
-               <option value="cash on delivery">cash on delivery</option>
-               <option value="credit card">credit card</option>
-               <option value="paypal">paypal</option>
-               <option value="paytm">paytm</option>
+               <option value="cash on delivery">Bank Transfer</option>
+               <option value="credit card">Credit card</option>
+               <option value="paypal">Paystack</option>
+               <option value="paytm">CRYPTO</option>
             </select>
          </div>
          <div class="inputBox">
@@ -127,23 +127,23 @@ if(isset($_POST['order_btn'])){
             <input type="number" min="0" name="flat" required placeholder="e.g. flat no.">
          </div>
          <div class="inputBox">
-            <span>address line 01 :</span>
+            <span>address line 02 :</span>
             <input type="text" name="street" required placeholder="e.g. street name">
          </div>
          <div class="inputBox">
             <span>city :</span>
-            <input type="text" name="city" required placeholder="e.g. mumbai">
+            <input type="text" name="city" required placeholder="e.g. Onitsha">
          </div>
          <div class="inputBox">
             <span>state :</span>
-            <input type="text" name="state" required placeholder="e.g. maharashtra">
+            <input type="text" name="state" required placeholder="e.g. Anambra">
          </div>
          <div class="inputBox">
             <span>country :</span>
-            <input type="text" name="country" required placeholder="e.g. india">
+            <input type="text" name="country" required placeholder="e.g. Nigeria">
          </div>
          <div class="inputBox">
-            <span>pin code :</span>
+            <span>Zip code :</span>
             <input type="number" min="0" name="pin_code" required placeholder="e.g. 123456">
          </div>
       </div>

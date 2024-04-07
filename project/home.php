@@ -52,8 +52,8 @@ if(isset($_POST['add_to_cart'])){
 <section class="home">
 
    <div class="content">
-      <h3>Hand Picked Book to your door.</h3>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi, quod? Reiciendis ut porro iste totam.</p>
+      <h3>Hand Picked Books to your screen</h3>
+      <p>Welcome to Book Barn, your one-stop-shop for all your eBooks needs! Here, you will find the latest and greatest eBooks, with new titles added every week. Our easy-to-use website makes it simple to browse and buy eBooks with a seamless payment integration. Our customer service is second to none. "With eBooks, you can take your library with you wherever you go. No more heavy books to lug around! Plus no payment hassle!</p>
       <a href="about.php" class="white-btn">discover more</a>
    </div>
 
@@ -104,7 +104,7 @@ if(isset($_POST['add_to_cart'])){
 
       <div class="content">
          <h3>about us</h3>
-         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit quos enim minima ipsa dicta officia corporis ratione saepe sed adipisci?</p>
+         <p>Book Barn was founded in 2024 by Iwuoha Chioma Lynda, a computer science student of Tansian University Umunya and also a Software Engineering Student at ALX. Book Barn is a portfolio project in fullfilment of Holberton School requirements. Book Barn will become the number one eBooks solution provider.</p>
          <a href="about.php" class="btn">read more</a>
       </div>
 
@@ -116,7 +116,7 @@ if(isset($_POST['add_to_cart'])){
 
    <div class="content">
       <h3>have any questions?</h3>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Atque cumque exercitationem repellendus, amet ullam voluptatibus?</p>
+      <p>If you have any questions about our products or services, we are here to help! Just drop us a line and we we will get back to you as soon as possible. We are always happy to hear from our customers, so don't hesistate to reach out!</p>
       <a href="contact.php" class="white-btn">contact us</a>
    </div>
 
